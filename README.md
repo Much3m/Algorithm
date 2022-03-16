@@ -37,16 +37,16 @@
 
 |        |                      1                       |                         2                         |                          3                          |                           4                           |
 | :----: | :------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------------: | :---------------------------------------------------: |
-| 1주  | [소수 찾기](https://www.acmicpc.net/problem/1978) | [소인수 분해](https://www.acmicpc.net/problem/11653) | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) |
-| 2주  | [후위 표기식2](https://www.acmicpc.net/problem/1935)| [큐](https://www.acmicpc.net/problem/10845) | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)| [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)  |
-| 3주  | [하노이 탑](https://www.acmicpc.net/problem/1914) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [절댓값 힙](https://www.acmicpc.net/problem/11286) | [좌표 압축](https://www.acmicpc.net/problem/18870) |
-| 4주  | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [포도주 시식](https://www.acmicpc.net/problem/2156) | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) |
-| 5주  | [트리 순회](https://www.acmicpc.net/problem/1991) | [순열 사이클](https://www.acmicpc.net/problem/10451) | [결혼식](https://www.acmicpc.net/problem/5567) | [단지번호 붙이기](https://www.acmicpc.net/problem/2667) |
-| 6주  | [토마토](https://www.acmicpc.net/problem/7576) | [미로 탐색](https://www.acmicpc.net/problem/2178) | [적록색약](https://www.acmicpc.net/problem/10026) | [스타트링크](https://www.acmicpc.net/problem/5014)  |
-| 7주  | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [종이의 개수](https://www.acmicpc.net/problem/1780) | [예산](https://www.acmicpc.net/problem/2512) |
-| 8주  | [병든 나이트](https://www.acmicpc.net/problem/1783) | [주식](https://www.acmicpc.net/problem/11501) | [신입 사원](https://www.acmicpc.net/problem/1946) | [통나무 건너뛰기](https://www.acmicpc.net/problem/11497) |
-| 9주  | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |  [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [후보 추천하기](https://www.acmicpc.net/problem/1713)  |
-| 10주 |                                              |                                                   |                                                     |                                                       |
+| 3주  | [소수 찾기](https://www.acmicpc.net/problem/1978) | [소인수 분해](https://www.acmicpc.net/problem/11653) | [부분수열의 합](https://www.acmicpc.net/problem/1182) | [골드바흐의 추측](https://www.acmicpc.net/problem/9020) |
+| 4주  | [후위 표기식2](https://www.acmicpc.net/problem/1935)| [큐](https://www.acmicpc.net/problem/10845) | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)| [요세푸스 문제 0](https://www.acmicpc.net/problem/11866)  |
+| 5주  | [하노이 탑](https://www.acmicpc.net/problem/1914) | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [절댓값 힙](https://www.acmicpc.net/problem/11286) | [좌표 압축](https://www.acmicpc.net/problem/18870) |
+| 6주  | [정수 삼각형](https://www.acmicpc.net/problem/1932) | [포도주 시식](https://www.acmicpc.net/problem/2156) | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) |
+| 7주  | [트리 순회](https://www.acmicpc.net/problem/1991) | [순열 사이클](https://www.acmicpc.net/problem/10451) | [결혼식](https://www.acmicpc.net/problem/5567) | [단지번호 붙이기](https://www.acmicpc.net/problem/2667) |
+| 8주  | [토마토](https://www.acmicpc.net/problem/7576) | [미로 탐색](https://www.acmicpc.net/problem/2178) | [적록색약](https://www.acmicpc.net/problem/10026) | [스타트링크](https://www.acmicpc.net/problem/5014)  |
+| 9주  | [색종이 만들기](https://www.acmicpc.net/problem/2630) | [별 찍기 - 11](https://www.acmicpc.net/problem/2448) | [종이의 개수](https://www.acmicpc.net/problem/1780) | [예산](https://www.acmicpc.net/problem/2512) |
+| 10주  | [병든 나이트](https://www.acmicpc.net/problem/1783) | [주식](https://www.acmicpc.net/problem/11501) | [신입 사원](https://www.acmicpc.net/problem/1946) | [통나무 건너뛰기](https://www.acmicpc.net/problem/11497) |
+| 11주  | [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |  [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [후보 추천하기](https://www.acmicpc.net/problem/1713)  |
+| 12주 |                                              |                                                   |                                                     |                                                       |
 
 ---
 ## 규칙👓
